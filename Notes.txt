@@ -9,3 +9,13 @@ Porkbun
 NameCheap
 GoogleDomains
 Cloudflare
+
+
+TODO:
+Style website to look decent
+
+Add more Services to list
+
+Better Intro
+
+mix the contact info and the services

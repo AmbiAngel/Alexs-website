@@ -47,3 +47,15 @@
 .lightbox-gallery .item {
   padding-bottom: 30px;
 }
+
+.home-section{
+  background-image: url(./Gallery-imgs/Stock/photo-1503387762-592deb58ef4e.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #e53935;
+}
+
+.home-section div{
+  color: white;
+}

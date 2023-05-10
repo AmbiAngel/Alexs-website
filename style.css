@@ -53,7 +53,10 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-color: #e53935;
+}
+
+.home-section.tint{
+  background-image: linear-gradient(180deg, hsla(0, 0%, 0%, 0.438),hsla(242, 86%, 6%, 0.527) 100%), url(./Gallery-imgs/Stock/photo-1503387762-592deb58ef4e.png);
 }
 
 .home-section div{
